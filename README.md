@@ -41,5 +41,5 @@ A mental healthcare website serves as an online platform dedicated to providing 
 In summary, a mental healthcare website strives to create a compassionate and informative online space that empowers individuals to take charge of their mental well-being, seek help when needed, and connect with a supportive community.
 
 Group project by-
-rskiran62
+rskiran62 |
 07Ankitha
